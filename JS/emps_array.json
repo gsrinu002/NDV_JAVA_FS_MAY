@@ -1,0 +1,19 @@
+[
+
+    {
+      "name" : "srinivas", 
+      "qual" : "MCA", 
+      "salary":  85000 
+    },
+     {
+      "name" : "Srija", 
+      "qual" : "Btech", 
+      "salary":  35000 
+    },
+     {
+      "name" : "Suresh", 
+      "qual" : "Btech", 
+      "salary":  55000 
+    }
+   
+]

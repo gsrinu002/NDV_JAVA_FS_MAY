@@ -1,0 +1,46 @@
+CSS:
+----
+Cascading style sheets 
+CSS using for styling web pages 
+CSS applied on top of html 
+
+CSS can be applied on top of html in 3 diff ways 
+
+1. inline CSS  : element related CSS
+2. internal CSS : page related css 
+3. external CSS : app related CSS 
+
+colors 
+background color 
+font properties 
+text properties 
+
+selectors 
+positions 
+box model 
+
+selectors 
+------------
+selector is selecting some  thing from html to css 
+
+selectors are multiple types 
+1. tag selector 
+2. class selector 
+3. id selector 
+4. group selector 
+5. universal selector 
+6. even selector 
+7. odd selector 
+
+
+box model 
+------------
+width :   horizontal space 
+height : vertical space 
+padding : inner space 
+margin : outer space 
+border : simple decoration (border-width,border-color,border-style)
+outline : extra decoration on top of border 
+(outline-width,outline-color,outline-style)
+
+Note: in html every element is a rectangular box 

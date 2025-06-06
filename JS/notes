@@ -1,0 +1,106 @@
+javascript 
+--------------
+js is browser interpreted  programming lang used for create a dynamic web pages 
+
+js features 
+-----------
+js is open source 
+js have huge number of libs 
+js is browser independent 
+js used for develop web application ,ML ,DL ,gaming ,blockchain ,.........
+js is most popular programming in 2025 
+
+JS will be injecting for html to make static pages to dynamic pages 
+
+dynamic 
+---------
+a page is taking user inputs 
+a page is listening user interactions 
+a page is responding for user actions 
+a page can able to send req 
+a page can able to get responses 
+a page can manipulate data 
+
+how to write js 
+------------------
+1. internal js : page specific js 
+   <script>
+        ///    js code  
+  </script>
+
+2. external js : application specific js 
+
+file.js 
+---------   js code  
+
+file.html 
+----------- 
+  <script src ='file.js' >     </script>
+
+js prdefined functions 
+--------------------------
+
+alert('') alert(" ") : show alert messgaes for user 
+
+prompt(' ') prompt(" ") : take inputs from users  
+
+console.log('') console.log(" ") : used for show console outputs 
+
+document.write('') document.write(" ") : to show document outputs 
+
+type cast 
+-----------
+parseInt() 
+parseFloat() 
+
+JSON 
+------
+JSON is javascript object notation 
+JSON is not programming 
+JSON is just lightweight text data interchangable format. 
+JSON have two root level structures 
+JSON string data can store in double quotes   " "
+ 1. JSON Object 
+ 2. JSON Array 
+
+ 1. JSON Object 
+ -----------------  { }
+ JSON Object is collection of key:value pairs  enclosed with { }
+ key must be string kind data 
+ value can be any kind of data (int,float,string,array,object,bool,null)
+ key and value seperated with colon :  
+ key:value pair seperated with comma , 
+
+ {
+   "name" : "srinivas", 
+   "qual" : "MCA", 
+   "salary": : 85000 
+ }
+
+ jsonlint.com
+
+ JSON Array 
+ -------------
+ JSON Array is collection of values  enclosed with [ ]
+ JSON Array values are (int,float,string,array,object,bool,null)
+ value seperated with comma  , 
+
+ [
+
+ {
+   "name" : "srinivas", 
+   "qual" : "MCA", 
+   "salary": : 85000 
+ },
+  {
+   "name" : "Srija", 
+   "qual" : "Btech", 
+   "salary": : 35000 
+ },
+  {
+   "name" : "Suresh", 
+   "qual" : "Btech", 
+   "salary": : 55000 
+ }
+
+ ]

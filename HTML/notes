@@ -1,0 +1,181 @@
+Install editors 
+----------------
+
+1. fullstack is visual studio code 
+
+   front end + back end 
+
+2. eclipse 
+
+web fundaments 
+------------------
+html 
+css 
+js 
+
+how to install vs code in your OS 
+--------------------------------------
+
+open browser -> search for vscode 
+
+download based on your OS 
+
+after downloading file -> double click on file 
+install for you  
+
+after install start vs code 
+
+HTML 
+-------
+Hyper text markup language 
+HTML files are saved with .html format 
+html files will run with browser 
+(chrome,firefox,safari,opera...)
+
+html is not programming lang 
+html just a markup lang 
+html used for design web pages 
+html is collection of predefined tags 
+
+html tags are two types 
+--------------------------
+1. paired tags 
+   <opentag>  content  </closetag>  
+   <p>  para content   </p> 
+
+2. un paired tags 
+   -> only open  :   <opentag>  
+   -> only close :   </closetag> 
+   -> self close :   <self close/> 
+
+html page should have structure
+
+html file  starts with html tag 
+
+<html>
+     
+</html>
+
+html divides into two sections 
+
+<html>
+     <head>  </head>
+     <body>  </body>
+</html>
+
+headings (paired tags)
+----------- 
+in html headings are h1..h6 
+h1 is bigger 
+h6 is smaller 
+
+headings are bold in style 
+
+paragraphs (paired)
+-------------   <p> Content   </p>
+
+list items  (paired)
+----------- 
+1. ordered list  
+   <ol> 
+      <li> </li>
+      <li> </li>
+      <li> </li>
+   </ol>
+2. un ordered list 
+3. definition list  
+
+text formating tags 
+---------------------
+b : bold text 
+i : italic text 
+u : underline text 
+sub : subscription text 
+sup : superscripted text 
+del : deleted text 
+hr  : horizontal row 
+br  : break line 
+
+pre : preserved format 
+
+ASS:   prepare a news blog  (headings ,paragraphs , list items , textformatting,a tag )
+       java blog 
+       web blog 
+       
+hyperlinks 
+-------------  linking one page to another page 
+anchor tag : a 
+href is imp and mandatory attribute  for hyperlinks 
+
+<a href="" >  Google  </a>
+
+hyperlink with new tab one imp attribute we need to add  target='_blank'
+
+images 
+-------- 
+images are creating with img tag 
+src is source of the image 
+src attribute is mandatory attribute 
+
+<img src="" /> 
+
+iframes 
+--------- inner frames 
+
+<iframe src ='' >  </iframe>
+
+       
+submit assignments 
+--------------------------
+git hub :  
+upload assignments in ur git hub 
+after that we will give company git hub  
+fork our folder in your git hub 
+push ur content 
+
+table 
+------- table is colection of rows and cols 
+
+<table> 
+   <tr> <td> SNO </td> <td> Name </td> <td> Salary </td>  </tr> 
+
+   <tr> <td> 1. </td> <td> Kiran </td> <td> 10000 </td>  </tr>
+   <tr> <td> 2. </td> <td> rajesh </td> <td> 12000 </td>  </tr>
+   <tr> <td> 3. </td> <td> somesh </td> <td> 13000 </td>  </tr>
+   
+</table>
+
+tags types 
+-----------
+1. block level tags :
+-------------------------- 
+a tag which is occupying full width of the page is called block level tag 
+
+p 
+headings 
+list items 
+div : container tag 
+
+2. inline tags :
+----------------
+a tag which is not occupying full width of the page is called inline 
+
+img 
+a 
+
+span : container 
+
+forms 
+--------- 
+sign in 
+sign up 
+registration form 
+
+
+<form> 
+   <input type="text" /> 
+   <input type="password" /> 
+   <input type="radio" /> 
+   <input type="checkbox" /> 
+   <input type="button" /> 
+</form>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>course registration from NDV</title>
+</head>
+<body>
+    <center>
+    <h2> course registration from NDV </h2>
+    <form width="70%" style="background-color: bisque; padding: 10px;"> 
+        <fieldset> 
+            <legend> name details </legend>
+            <input type="text" placeholder="enter first name" required/> 
+            <input type="text" placeholder="enter last name" required/> 
+        </fieldset>
+        <fieldset>
+            <legend> Contact Details </legend> 
+            <input type="email" placeholder="enter email" required/>
+            <input type="tel" placeholder="enter contact" required/>
+        </fieldset>
+        <fieldset>
+            <legend> gender details </legend>
+            Male :<input type="radio" name="gender" value="male"/>
+            FeMale :<input type="radio" name="gender" value="female"/>
+            others :<input type="radio" name="gender" value="others"/>
+        </fieldset>
+        <fieldset> 
+            <legend> Choose course </legend>
+
+            ML-AI: <input type="checkbox" value="ML-AI"/>
+            Data Science: <input type="checkbox" value="ds"/>
+            Cyber SECURITY: <input type="checkbox" value="cs"/>
+            Full Stack: <input type="checkbox" value="fs"/>
+            <select>
+                <option> Java </option>
+                <option> Python </option>
+                <option> Node JS </option>
+            </select>
+
+        </fieldset>
+        <fieldset>
+            <legend> submit here</legend>
+            <input type="submit" value="Submit"/> 
+            <input type="file"/>
+        </br>
+          Comments here :  <textarea value="comments" cols="15" rows="2"> </textarea> 
+        </fieldset>
+    </form>
+</center>
+</body>
+</html>

@@ -1,0 +1,142 @@
+java :
+------ java is completely object oriented programming 
+java is compiled programming lang 
+
+Java runs with JVM (java virtual machine)
+
+if you want to work with java programming we need to install JDK 
+
+JDK : java development kit 
+
+when we install JDK automatically one more software will be installed 
+for us ( JRE )
+JRE : java runtime environment 
+
+java editors
+--------------
+eclipse 
+netbeans 
+intellij IDEA 
+
+visual studio code 
+--------------------  go to extentions button search for java 
+install JDK : from it 
+automatically java JDK and JRE will be adding for VSCODE .... 
+
+every java file saved with .java format 
+
+note: in java every statement ends with semicolon ; 
+
+in java data type declaration is needed  (static typed programming)
+---------------------------------------------------------------------
+        int x=10 ;
+        float y=10.89 ;
+        String name = "srinivas";
+
+python : no need data type  (dynamic typed)
+---------------------------------------------
+       x=10 
+       y=10.56 
+       name ="srinivas"
+
+js: var , let  (dynamic typed)
+--------------------------------
+   var x=10
+   var y=10.56 
+   var name ="srinivas"
+
+JAVA fundamentals 
+--------------------
+variables 
+data types 
+type casting 
+comments 
+operators 
+loops 
+conditions 
+exception handling 
+OOPS 
+
+data types
+------------
+int  : numerical data  : 2,56,78,100
+float : decimals  : 10.56,56.789 ,100.00 
+string : "srini" , "HI" ,"JAVA" 
+char :  'A' , 's' , 'f'
+boolean : true ,false 
+array  :[ ]
+map    : {k:v,k:v,k:v }
+
+operators
+------------
+1.arthematic : +,-,*,/,%
+2.logical    : && ||  != 
+3.assignment : =  
+4.comparison :  == 
+5.inc /dec  : ++ -- 
+6.relational  : < > <= >= 
+
+Comments 
+--------- comments are using for commenting the code 
+comments are useful for understand flow of the code 
+comments are not render output . 
+
+java comments are two types 
+1. single line comment  : // 
+2. multi line comment  :  /*  ....... * /
+
+variables
+-----------
+variable is a storage area 
+
+variable name should fallow some rules 
+
+note: variable name is custom defined name ...
+
+1. variable name should not start with number 
+2. variable name should not have space 
+3. variable name should not be a java keyword or identifier 
+4. variable name should not contain any special chars like 
+   ! @ # $ % ^ & * - = } { } | \ / < > ! ~
+5. varibale name allowed only one special char called underscore _ 
+
+
+product1 
+1product 
+product1name 
+
+conditions 
+---------------
+if : if condition checks only true blocks 
+if-else  : checks true and false blocks 
+
+else if : more true statements if any condition not sartisfy it will go for false block
+
+switch: more true statements if any condition not sartisfy it will go for false block
+nested if : if inside if statement 
+
+loops 
+------------
+loops are itterrations 
+
+while 
+do while 
+for loop 
+
+class room : 20 people are there ... 
+
+1 -> responds 
+2
+3
+....
+20  -> respond 
+
+
+write a program checking even numbers ? 
+
+numbers 
+
+loops and conditions mix 
+
+
+
