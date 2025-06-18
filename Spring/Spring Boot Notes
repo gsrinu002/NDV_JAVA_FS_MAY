@@ -1,0 +1,49 @@
+Spring Boot ?
+---------------
+
+Spring boot is a project built on sping framework . 
+
+it simplifies the process of building production ready applications for web 
+
+features 
+----------
+-> provides auto configurtation  : depencies 
+
+-> create stanalone applcations 
+
+-> it will come up with tomcat /jetty /undertwo servers 
+
+-> reducing the boilerplate code 
+
+Create first spring boot project 
+-------------------------------------
+open browser -> search for spring intilizer 
+
+project -> maven 
+language -> java 
+give ur project name 
+add depencies below  by clicking on add depencies 
+
+(REST API)
+==================
+
+1. spring web  : build for REST API  using with spring MVC 
+2. spring boot Devtools : for reloads fast development 
+3. spring validation : input validations 
+4. thymeleaf : for server side html rendering  
+
+Access Data base 
+==================
+
+1.Spring Data JPA 
+2.MySQL Driver 
+3.H2 Data base 
+4.postgre SQL driver 
+5. Spring JDBC 
+6. flyway 
+
+
+
+
+
+
