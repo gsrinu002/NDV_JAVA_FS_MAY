@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>JSON-JS</title>
+</head>
+<body>
+	<script type="text/javascript">
+	let json_obj = ' {"name":"srini","qual":"MCA","salary":80000} '
+	console.log(json_obj)
+
+     // convert json to js 
+
+	let js_obj = JSON.parse(json_obj)
+
+	console.log(js_obj)
+
+	document.write("NAME is :: " + js_obj.name + "<br/>")
+	document.write("QUAL is ::  " + js_obj.qual + "<br/>")
+	document.write("SALARY is :: " + js_obj.salary + "<br/>")
+
+
+	</script>
+
+</body>
+</html>

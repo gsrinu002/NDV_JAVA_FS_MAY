@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+		JS - JSON
+	</title>
+</head>
+<body>
+<script type="text/javascript">
+
+	jsObj = { name :"srini" , qual: 'MCA',salary:80000}
+   
+	document.write(jsObj)
+	document.write('<br/>')
+	console.log(jsObj)
+
+	// convert to json 
+
+	JSON_Obj=JSON.stringify(jsObj)
+	document.write(JSON_Obj)
+	console.log(JSON_Obj)
+
+	jsArray = [{ name :"srini" , qual: 'MCA',salary:80000} , { name :"radha" , qual: 'MSC',salary:120000}]
+	document.write(jsArray)
+	document.write('<br/>')
+	console.log(jsArray)
+
+	// convert to json 
+
+	JSON_Array=JSON.stringify(jsArray)
+	document.write(JSON_Array)
+	console.log(JSON_Array)
+
+
+
+</script>
+</body>
+</html>

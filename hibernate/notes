@@ -1,0 +1,16 @@
+Hibenate:
+------------
+Hibernate is a java framework that simplifies database interaction by mapping java objects to database tables .
+
+effectiveluy act as an abstraction layer between the java code and database 
+
+
+features 
+------------
+ORM 
+HQL (Hibernate Query lang)
+caching 
+automatic table creations 
+laxy loading 
+transaction management 
+
